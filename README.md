@@ -4,10 +4,12 @@ BalloonSimulator is a free and open source solution to teaching children K-8 abo
 
 This product is fully commented and documented. 
 
-Downloads:
 - [x] Windows Support
 - [x] Mac Support
 - [x] Linux Support (will have to build your own archive)
 
+Downloads:
 (Windows/Mac)
-Download: https://github.com/Class41/BalloonSimulator/tree/master/Builds
+https://github.com/Class41/BalloonSimulator/tree/master/Builds
+
+Created as part of the FALL UMSL CS4500 2019 semester
