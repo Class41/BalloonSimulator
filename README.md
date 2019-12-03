@@ -1,6 +1,5 @@
 # BalloonSimulator
 
-To download a version, goto Builds:
-
+Downloads:
 (Windows/Mac)
 https://github.com/Class41/BalloonSimulator/tree/master/Builds
